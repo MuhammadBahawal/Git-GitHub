@@ -1,7 +1,9 @@
 # Git-GitHub
-In this we learn the git& git hub and learn how to use this 
-### 1. Make account on GitHub 
-### 2. Install git 
-    click on this to download the Git [Click on this](https://git-scm.com/downloads))
+In this, we learn Git & GitHub and how to use them.
+
+### 1. Make an account on GitHub  
+### 2. Install Git  
+Click on this to download Git: [Click on this](https://git-scm.com/downloads)
+
     
 
